@@ -1,2 +1,0 @@
-* linguist-vendored
-*.csproj diff=csharp linguist-vendored=false
